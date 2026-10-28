@@ -1,156 +1,79 @@
-ЧЕРНОВИК. Текст не утверждён правообладателем и не проверен юристом. До публикации заменить [ПРАВООБЛАДАТЕЛЬ] и пункт 11.
-DRAFT. Not approved by the rights holder, not reviewed by a lawyer. Replace [RIGHTS HOLDER] and section 11 before publishing.
+ЛИЦЕНЗИЯ НА ИСПОЛЬЗОВАНИЕ ПРОГРАММЫ «ДИКТАНТ» (бесплатная, для всех)
+==========================================================================
 
-================================================================================
-ЛИЦЕНЗИЯ НА ИСПОЛЬЗОВАНИЕ ПРОГРАММЫ «ДИКТАНТ» (бесплатная, с закрытым кодом)
-================================================================================
+Программа «Диктант» (Diktant) — голосовой ввод текста для Mac и Windows. Сайт: https://diktantapp.ru
+Автор и правообладатель: разработчик «Диктанта». Связь: hello@diktantapp.ru
+© 2026. Все права защищены.
 
-Версия лицензии: 1.0 (черновик от 25.10.2026)
-Правообладатель: [ПРАВООБЛАДАТЕЛЬ — имя или ИП, уточняется], далее «Правообладатель».
-Программа: «Диктант» (Diktant) — программа для голосового ввода текста, все версии, которые Правообладатель выложил
-для скачивания в этом репозитории и на сайте https://diktantapp.ru, далее «Программа».
+Устанавливая или используя «Диктант», вы принимаете эти условия.
 
-Устанавливая, копируя или используя Программу, вы принимаете эти условия. Не согласны — не устанавливайте Программу.
+ЧТО МОЖНО
+  1. Пользоваться бесплатно, без ограничения срока и числа компьютеров — дома, на работе, в компании, в учёбе.
+  2. Передавать другим людям программу в том виде, как она есть: неизменённый установочный файл с этой страницы
+     или с сайта diktantapp.ru, бесплатно, вместе с файлами LICENSE и THIRD-PARTY-NOTICES. Или просто дать ссылку.
+  3. Рассказывать о программе, показывать её в обзорах и видео.
 
-1. ЧТО МОЖНО
-1.1. Бесплатно устанавливать Программу на любое число своих компьютеров и пользоваться ею без ограничения срока.
-1.2. Пользоваться Программой для работы, в том числе в компании, у ИП и в учебном заведении; плата за это не взимается.
-1.3. Делиться Программой: передавать другим людям неизменённый установочный файл, полученный из этого репозитория
-     или с сайта https://diktantapp.ru, целиком и бесплатно, вместе с файлами LICENSE и THIRD-PARTY-NOTICES.
-     Проще — дайте ссылку на репозиторий или на сайт.
-1.4. Писать о Программе, показывать её в обзорах и видео, ссылаться на неё.
+ЧЕГО НЕЛЬЗЯ
+  4. Менять программу и создавать на её основе другие программы; выкладывать или передавать изменённые версии.
+  5. Разбирать программу, чтобы получить её исходный код (декомпилировать, дизассемблировать) — кроме случаев,
+     когда это прямо разрешает закон или лицензии сторонних компонентов (см. ниже).
+  6. Продавать программу, брать плату за её передачу, включать в платные продукты, выдавать за свою.
+  7. Убирать название «Диктант», сведения об авторе и эти условия.
 
-2. ЧЕГО НЕЛЬЗЯ
-2.1. Изменять Программу и её файлы, создавать на её основе другие программы (производные работы).
-2.2. Декомпилировать, дизассемблировать, вскрывать, распаковывать для изменения и иным образом исследовать устройство
-     Программы с целью получить исходный код или внутренние данные — кроме случаев, когда это прямо разрешено
-     законом или лицензиями сторонних компонентов (пункт 5).
-2.3. Выкладывать, передавать или продавать изменённые версии Программы или её части.
-2.4. Продавать Программу, сдавать в аренду, брать плату за её передачу или за доступ к ней, включать её в платные
-     продукты и сервисы, а также предлагать как свою собственную.
-2.5. Убирать, закрывать или менять название «Диктант», сведения об авторстве, уведомления об авторских правах и
-     эти условия.
-2.6. Обходить встроенные проверки, механизмы обновления и подписи Программы.
-2.7. Использовать название «Диктант», логотип и оформление Правообладателя для своих программ и сервисов, так, чтобы
-     это могло вводить в заблуждение.
+СТОРОННИЕ КОМПОНЕНТЫ
+  8. В «Диктант» входят чужие компоненты (модель распознавания речи GigaAM, ONNX Runtime, Qt, Python и другие).
+     У каждого своя лицензия, перечень и тексты — в файле THIRD-PARTY-NOTICES. Эти условия не ограничивают ваших
+     прав по лицензиям сторонних компонентов. В частности, библиотеки под LGPL (Qt, PySide6, pynput) вы вправе
+     заменять своими сборками и изучать программу в той мере, в какой это нужно для замены и проверки.
 
-3. АВТОРСКИЕ ПРАВА
-3.1. Программа и все права на неё принадлежат Правообладателю. Эта лицензия не передаёт вам право собственности,
-     а только право использовать Программу на условиях выше (неисключительная лицензия, без права
-     сублицензирования).
-3.2. Исходный код Программы не раскрывается и не входит в эту лицензию.
+БЕЗ ГАРАНТИЙ
+  9. Программа предоставляется «как есть». Автор не гарантирует отсутствие ошибок и точность распознавания и, в
+     пределах закона, не отвечает за убытки от использования программы. Проверяйте важный текст перед отправкой.
 
-4. ВАШИ ДАННЫЕ
-4.1. Распознавание речи выполняется на вашем компьютере. Подробности о том, какие обращения в интернет делает
-     Программа (проверка обновлений, загрузка баннеров, анонимный счётчик использования), — на сайте
-     https://diktantapp.ru. [ПРОВЕРИТЬ ПЕРЕД ПУБЛИКАЦИЕЙ: сверить формулировку с тем, что реально отправляет приложение.]
+ПРОЧЕЕ
+ 10. Исходный код программы не раскрывается и в эту лицензию не входит. Все права, не данные явно, сохраняются
+     за автором.
+ 11. Нарушили условия — право пользоваться прекращается; удалите копии.
+ 12. Применимое право — право Российской Федерации.
 
-5. СТОРОННИЕ КОМПОНЕНТЫ
-5.1. В Программу входят компоненты других авторов (в том числе модель распознавания речи GigaAM, ONNX Runtime, Qt,
-     Python и другие). Они распространяются на условиях собственных лицензий; их перечень и тексты — в файле
-     THIRD-PARTY-NOTICES.
-5.2. Ничто в этой лицензии не ограничивает ваших прав на сторонние компоненты, которые они дают вам по своим
-     лицензиям. В частности, для библиотек под LGPL (Qt, PySide6, pynput) вы вправе заменять их своими сборками и
-     изучать Программу в той мере, в какой это нужно для такой замены и её проверки (см. THIRD-PARTY-NOTICES).
+==========================================================================
+ENGLISH (courtesy translation; the Russian text prevails)
+==========================================================================
 
-6. БЕЗ ГАРАНТИЙ
-6.1. Программа предоставляется «как есть». Правообладатель не гарантирует, что она подойдёт для ваших целей,
-     будет работать без ошибок и точно распознавать речь. Проверяйте важный текст перед отправкой.
+DIKTANT LICENSE (free for everyone)
 
-7. ОТВЕТСТВЕННОСТЬ
-7.1. В пределах, допустимых законом, Правообладатель не отвечает за убытки и упущенную выгоду от использования или
-     невозможности использовать Программу. Права потребителей, которые нельзя ограничить по закону, не затрагиваются.
+"Diktant" is a voice-to-text program for Mac and Windows. Website: https://diktantapp.ru
+Author and rights holder: the developer of Diktant. Contact: hello@diktantapp.ru. (c) 2026. All rights reserved.
 
-8. ПРЕКРАЩЕНИЕ
-8.1. Если вы нарушили эти условия, право пользоваться Программой прекращается автоматически. Прекратите использование
-     и удалите все копии. Правообладатель вправе также прекратить распространение Программы; уже установленные у вас
-     копии вы вправе использовать на тех же условиях.
+By installing or using Diktant you accept these terms.
 
-9. ПРОЧЕЕ
-9.1. Если какое-то положение недействительно, остальные остаются в силе.
-9.2. Правообладатель вправе публиковать новые версии этой лицензии для новых версий Программы. Уже выпущенные версии
-     остаются на условиях, действовавших при их выпуске.
-9.3. Вопросы и обращения: hello@diktantapp.ru.
+YOU MAY
+  1. Use it free of charge, without time limit or limit on the number of computers — at home, at work, in a company,
+     at school.
+  2. Share it as is: the unmodified installer from this page or from diktantapp.ru, free of charge, together with
+     the LICENSE and THIRD-PARTY-NOTICES files. Or just share the link.
+  3. Write about it and show it in reviews and videos.
 
-10. ПРИМЕНИМОЕ ПРАВО
-10.1. [ЧЕРНОВИК — уточнить у Павла/юриста: право Российской Федерации.]
+YOU MAY NOT
+  4. Modify the program or create derivative works; publish or distribute modified versions.
+  5. Reverse engineer the program to obtain its source code (decompile, disassemble), except where law or the
+     licenses of third-party components expressly allow it (see below).
+  6. Sell it, charge for its distribution, bundle it into paid products, or present it as your own.
+  7. Remove the name "Diktant", authorship information or these terms.
 
-11. ПРАВООБЛАДАТЕЛЬ
-© 2026 [ПРАВООБЛАДАТЕЛЬ]. Все права защищены.
+THIRD-PARTY COMPONENTS
+  8. Diktant includes third-party components (the GigaAM speech recognition model, ONNX Runtime, Qt, Python and
+     others), each under its own license; see THIRD-PARTY-NOTICES. These terms do not limit your rights under those
+     licenses. In particular, you may replace the LGPL libraries (Qt, PySide6, pynput) with your own builds and
+     study the program to the extent needed for such replacement and its testing.
 
-================================================================================
-ENGLISH VERSION (courtesy translation; the Russian text is authoritative — [confirm with rights holder])
-================================================================================
+NO WARRANTY
+  9. The program is provided "as is", without warranty of any kind, including freedom from errors and recognition
+     accuracy. To the extent permitted by law, the author is not liable for any damages arising from its use.
+     Check important text before sending it.
 
-DIKTANT END-USER LICENSE (freeware, closed source)
-
-License version: 1.0 (draft of 25 Oct 2026)
-Rights holder: [RIGHTS HOLDER — name or sole proprietor, TBD] ("Rights Holder").
-Software: "Diktant" — a voice-to-text program, all versions the Rights Holder has published for download in this
-repository and at https://diktantapp.ru (the "Software").
-
-By installing, copying or using the Software you accept these terms. If you do not agree, do not install it.
-
-1. WHAT YOU MAY DO
-1.1. Install the Software free of charge on any number of your own computers and use it without time limit.
-1.2. Use the Software for work, including inside a company, as a sole proprietor, or at an educational institution,
-     at no charge.
-1.3. Share the Software: give others the unmodified installer you obtained from this repository or from
-     https://diktantapp.ru, complete and free of charge, together with the LICENSE and THIRD-PARTY-NOTICES files.
-     Simpler still: share the link to the repository or the website.
-1.4. Write about the Software, show it in reviews and videos, and link to it.
-
-2. WHAT YOU MAY NOT DO
-2.1. Modify the Software or its files, or create derivative works based on it.
-2.2. Decompile, disassemble, unpack for modification, or otherwise reverse engineer the Software to obtain source code
-     or internal data, except where this is expressly permitted by law or by the licenses of third-party components
-     (section 5).
-2.3. Publish, distribute or sell modified versions of the Software or parts of it.
-2.4. Sell, rent or lease the Software, charge for its distribution or for access to it, bundle it into paid products
-     or services, or present it as your own.
-2.5. Remove, obscure or change the name "Diktant", authorship information, copyright notices, or these terms.
-2.6. Circumvent the Software's built-in checks, update mechanism or signatures.
-2.7. Use the name "Diktant", the logo or the visual design of the Rights Holder for your own programs or services
-     in a way that could mislead others.
-
-3. COPYRIGHT
-3.1. The Software and all rights in it belong to the Rights Holder. This license grants you the right to use the
-     Software on the terms above; it does not transfer ownership (non-exclusive license, no right to sublicense).
-3.2. The source code of the Software is not disclosed and is not covered by this license.
-
-4. YOUR DATA
-4.1. Speech recognition runs on your computer. Details of the Software's internet requests (update checks, banner
-     downloads, an anonymous usage counter) are described at https://diktantapp.ru.
-     [VERIFY BEFORE PUBLISHING against what the app actually sends.]
-
-5. THIRD-PARTY COMPONENTS
-5.1. The Software includes components by other authors (including the GigaAM speech recognition model, ONNX Runtime,
-     Qt, Python and others). They are licensed under their own licenses; see THIRD-PARTY-NOTICES for the list and texts.
-5.2. Nothing in this license limits your rights in third-party components under their own licenses. In particular, for
-     LGPL libraries (Qt, PySide6, pynput) you may replace them with your own builds and study the Software to the extent
-     needed for such replacement and its debugging (see THIRD-PARTY-NOTICES).
-
-6. NO WARRANTY
-6.1. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING FITNESS FOR A
-     PARTICULAR PURPOSE, ABSENCE OF ERRORS, OR RECOGNITION ACCURACY. Check important text before sending it.
-
-7. LIABILITY
-7.1. To the extent permitted by law, the Rights Holder is not liable for any damages or lost profits arising from the
-     use of or inability to use the Software. Consumer rights that cannot be limited by law are not affected.
-
-8. TERMINATION
-8.1. If you breach these terms, your right to use the Software ends automatically. Stop using it and delete all copies.
-     The Rights Holder may also stop distributing the Software; copies already installed may continue to be used on
-     the same terms.
-
-9. GENERAL
-9.1. If any provision is invalid, the rest remain in force.
-9.2. The Rights Holder may publish new versions of this license for new versions of the Software. Releases already
-     published remain under the terms that applied when they were released.
-9.3. Contact: hello@diktantapp.ru.
-
-10. GOVERNING LAW
-10.1. [DRAFT — to be confirmed: the laws of the Russian Federation.]
-
-11. RIGHTS HOLDER
-© 2026 [RIGHTS HOLDER]. All rights reserved.
+GENERAL
+ 10. The source code is not disclosed and is not covered by this license. All rights not expressly granted are
+     reserved by the author.
+ 11. If you breach these terms, your right to use the program ends; delete all copies.
+ 12. Governing law: the laws of the Russian Federation.
